@@ -1,0 +1,10 @@
+# Timeout to use for ping in ms
+timeout: 4000
+
+# Number of pings to execute
+numpings: 10
+
+# List of network destinations to ping
+destinations:
+  - google.com
+  - aws.amazon.com
